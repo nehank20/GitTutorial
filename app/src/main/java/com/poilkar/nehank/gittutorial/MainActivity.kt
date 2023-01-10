@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // testing
+
+        error code.. it breaked the app
     }
 }
