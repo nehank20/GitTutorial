@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // testing
+        // another commit
 
-        error code.. it breaked the app
     }
 }
